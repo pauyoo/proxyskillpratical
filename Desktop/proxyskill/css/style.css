@@ -1,0 +1,21 @@
+.hero-gradient {
+  background:
+    radial-gradient(circle at top right, rgba(58,46,122,0.15), transparent),
+    radial-gradient(circle at bottom left, rgba(249,115,22,0.15), transparent);
+}
+
+.input {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background: #f1f5f9;
+}
+
+.btn {
+  width: 100%;
+  background: #f97316;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  font-weight: bold;
+}
