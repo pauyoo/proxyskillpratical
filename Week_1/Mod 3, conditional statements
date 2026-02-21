@@ -1,0 +1,30 @@
+## A variable is a container for a value
+# This values comes with different data types (String // Integars // Float // Boolean)
+coding_class = "20 students"
+
+print (coding_class)
+
+## Printing with the f string 
+
+name = "Sammy"
+print(f"Hello {name}")
+
+##  USING CONDITIONAL STATEMENTS STRUCTURE YOUR CGPA
+score= 50
+
+if score<=40:
+    print("F")
+elif score<=50:
+    print("D")
+elif score<=60:
+    print("C")     
+elif score<=67:
+    print("B")
+elif score<=75:
+    print("B+")
+elif score<=87:
+    print("A")
+elif score<=96:
+    print("A+")  
+else:
+    print("Scholarship")    
