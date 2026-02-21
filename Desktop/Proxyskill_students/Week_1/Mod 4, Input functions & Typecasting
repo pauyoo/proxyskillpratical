@@ -1,0 +1,6 @@
+new_age = int(input("How old are you today?"))
+
+new_age = int(new_age)
+new_age = new_age+1
+
+print(f"You are {new_age} old today")

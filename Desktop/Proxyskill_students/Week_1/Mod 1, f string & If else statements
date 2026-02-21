@@ -1,0 +1,22 @@
+
+class_name = "SProxyskill"
+print(f"Hello {class_name}")
+
+# 1. Set the correct password (the 'secret')
+secret_password = "Proxyskill123"
+
+# 2. Get the user's guess
+guess = input("Enter the password (or type 'hint'): ")
+
+# 3. Check the conditions
+if guess == secret_password:
+    print("🔓 Access Granted! Welcome to the secret vault.")
+    
+elif guess == "hint":
+    print("💡 HINT: It starts with 'P' and ends with '123'.")
+    
+else:
+    print("❌ Access Denied. Wrong password.")
+
+
+

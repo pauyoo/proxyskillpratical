@@ -1,0 +1,8 @@
+## Input Function
+
+age = input("your age?")
+my_sch = input("What school do you attend?")
+
+
+print(f"I am {age} years old")
+print(f"I attend {my_sch} high School")
