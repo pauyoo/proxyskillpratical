@@ -1,0 +1,101 @@
+Position,Level,Band,Department,Salary ($),Annual Bonus ($),Bonus %,Total Compensation ($),Years of Experience,Headcount,Education Requirement
+Intern,0,Entry,Operations,25000,1250,0.05,26250.0,0,32,High School
+Business Analyst,1,Entry,Analytics,45000,2250,0.05,47250.0,1,37,Bachelor's
+Junior Consultant,2,Entry,Consulting,50000,4500,0.09,54500.0,4,36,Bachelor's
+Data Analyst,2,Entry,Analytics,52000,4160,0.08,56160.0,3,39,Bachelor's
+HR Coordinator,2,Entry,Human Resources,48000,4320,0.09,52320.0,2,13,Bachelor's
+Marketing Associate,2,Entry,Marketing,47000,3290,0.07,50290.0,2,16,Bachelor's
+IT Support Specialist,2,Entry,IT,49000,3920,0.08,52920.0,2,13,Bachelor's
+Financial Analyst,3,Mid,Finance,58000,4640,0.08,,3,17,Bachelor's
+Senior Consultant,3,Mid,Consulting,60000,7200,0.12,,3,15,Bachelor's
+Project Coordinator,3,Mid,Operations,55000,3300,0.06,,6,8,Bachelor's
+HR Specialist,3,Mid,Human Resources,57000,5130,0.09,,3,12,Bachelor's
+Marketing Specialist,3,Mid,Marketing,56000,6160,0.11,,3,11,Bachelor's
+Systems Analyst,3,Mid,IT,62000,6820,0.11,68820.0,3,11,Bachelor's
+Senior Data Analyst,3,Mid,Analytics,65000,3900,0.06,68900.0,4,19,Bachelor's
+Business Development Rep,3,Mid,Sales,60000,3600,0.06,63600.0,4,9,Bachelor's
+Operations Analyst,3,Mid,Operations,58000,5800,0.1,63800.0,3,18,Bachelor's
+Compliance Officer,4,Mid,Legal,72000,7920,0.11,79920.0,9,10,Bachelor's/Master's
+Manager,4,Mid,Operations,80000,7200,0.09,87200.0,6,13,Bachelor's/Master's
+Finance Manager,4,Mid,Finance,85000,9350,0.11,94350.0,9,19,Bachelor's/Master's
+HR Manager,4,Mid,Human Resources,78000,7800,0.1,85800.0,8,12,Bachelor's/Master's
+Marketing Manager,4,Mid,Marketing,82000,6560,0.08,88560.0,6,7,Bachelor's/Master's
+IT Manager,4,Mid,IT,88000,9680,0.11,97680.0,8,19,Bachelor's/Master's
+Sales Manager,4,Mid,Sales,90000,12600,0.14,102600.0,9,8,Bachelor's/Master's
+Project Manager,4,Mid,Operations,84000,10080,0.12,94080.0,7,6,Bachelor's/Master's
+Data Science Manager,4,Mid,Analytics,95000,5700,0.06,100700.0,5,5,Bachelor's/Master's
+Legal Counsel,4,Mid,Legal,92000,12880,0.14,104880.0,6,7,Bachelor's/Master's
+Country Manager,5,Senior,Operations,110000,15400,0.14,125400.0,13,5,Master's
+Senior Finance Manager,5,Senior,Finance,105000,15750,0.15,120750.0,11,4,Master's
+Senior IT Manager,5,Senior,IT,112000,10080,0.09,122080.0,10,8,Master's
+Senior Marketing Manager,5,Senior,Marketing,108000,9720,0.09,117720.0,10,9,Master's
+Senior HR Manager,5,Senior,Human Resources,100000,7000,0.07,107000.0,9,9,Master's
+Senior Sales Manager,5,Senior,Sales,115000,5750,0.05,120750.0,9,5,Master's
+Senior Data Scientist,5,Senior,Analytics,120000,16800,0.14,136800.0,10,8,Master's
+Head of Product,5,Senior,Product,118000,16520,0.14,134520.0,8,2,Master's
+Head of Engineering,5,Senior,IT,125000,21250,0.17,146250.0,8,4,Master's
+Senior Legal Counsel,5,Senior,Legal,116000,17400,0.15,133400.0,11,8,Master's
+Region Manager,6,Senior,Operations,150000,19500,0.13,169500.0,12,2,Master's
+VP of Finance,6,Senior,Finance,160000,11200,0.07,171200.0,14,8,Master's
+VP of Sales,6,Senior,Sales,170000,23800,0.14,193800.0,18,6,Master's
+VP of Marketing,6,Senior,Marketing,155000,27900,0.18,182900.0,14,9,Master's
+VP of Engineering,6,Senior,IT,175000,22750,0.13,197750.0,16,6,Master's
+VP of HR,6,Senior,Human Resources,148000,11840,0.08,159840.0,14,8,Master's
+VP of Product,6,Senior,Product,165000,18150,0.11,183150.0,18,10,Master's
+VP of Data & Analytics,6,Senior,Analytics,168000,11760,0.07,179760.0,12,9,Master's
+VP of Legal,6,Senior,Legal,158000,30020,0.19,188020.0,17,4,Master's
+Director of Operations,6,Senior,Operations,152000,28880,0.19,180880.0,15,5,Master's
+Partner,7,Executive,Consulting,200000,42000,0.21,242000.0,16,3,Master's/MBA
+Managing Director,7,Executive,Operations,210000,31500,0.15,241500.0,21,2,Master's/MBA
+Director of Finance,7,Executive,Finance,205000,28700,0.14,233700.0,16,1,Master's/MBA
+Director of Engineering,7,Executive,IT,220000,15400,0.07,235400.0,19,5,Master's/MBA
+Director of Sales,7,Executive,Sales,215000,23650,0.11,238650.0,20,5,Master's/MBA
+Director of Marketing,7,Executive,Marketing,200000,44000,0.22,244000.0,18,1,Master's/MBA
+Director of Analytics,7,Executive,Analytics,218000,41420,0.19,259420.0,16,3,Master's/MBA
+Director of HR,7,Executive,Human Resources,195000,17550,0.09,212550.0,15,1,Master's/MBA
+Director of Product,7,Executive,Product,212000,19080,0.09,231080.0,18,1,Master's/MBA
+Director of Legal,7,Executive,Legal,208000,31200,0.15,239200.0,19,5,Master's/MBA
+Senior Partner,8,Executive,Consulting,300000,21000,0.07,321000.0,19,4,MBA/PhD
+SVP of Finance,8,Executive,Finance,280000,56000,0.2,336000.0,21,5,MBA/PhD
+SVP of Sales,8,Executive,Sales,310000,65100,0.21,375100.0,19,5,MBA/PhD
+SVP of Engineering,8,Executive,IT,320000,80000,0.25,400000.0,24,2,MBA/PhD
+SVP of Marketing,8,Executive,Marketing,275000,44000,0.16,319000.0,22,1,MBA/PhD
+SVP of Operations,8,Executive,Operations,290000,23200,0.08,313200.0,25,5,MBA/PhD
+SVP of HR,8,Executive,Human Resources,265000,47700,0.18,312700.0,23,1,MBA/PhD
+SVP of Product,8,Executive,Product,298000,71520,0.24,369520.0,20,2,MBA/PhD
+SVP of Analytics,8,Executive,Analytics,305000,24400,0.08,329400.0,23,1,MBA/PhD
+General Counsel,8,Executive,Legal,285000,45600,0.16,330600.0,23,5,MBA/PhD
+C-level,9,C-Suite,Operations,500000,95000,0.19,595000.0,25,1,MBA/PhD
+Chief Financial Officer,9,C-Suite,Finance,480000,129600,0.27,609600.0,32,1,MBA/PhD
+Chief Technology Officer,9,C-Suite,IT,520000,135200,0.26,655200.0,26,1,MBA/PhD
+Chief Marketing Officer,9,C-Suite,Marketing,460000,101200,0.22,561200.0,32,1,MBA/PhD
+Chief Operating Officer,9,C-Suite,Operations,490000,102900,0.21,592900.0,32,1,MBA/PhD
+Chief HR Officer,9,C-Suite,Human Resources,440000,92400,0.21,532400.0,23,1,MBA/PhD
+Chief Product Officer,9,C-Suite,Product,470000,65800,0.14,535800.0,31,1,MBA/PhD
+Chief Data Officer,9,C-Suite,Analytics,465000,93000,0.2,558000.0,32,1,MBA/PhD
+Chief Legal Officer,9,C-Suite,Legal,455000,59150,0.13,514150.0,24,1,MBA/PhD
+Chief Revenue Officer,9,C-Suite,Sales,510000,127500,0.25,637500.0,30,1,MBA/PhD
+CEO,10,C-Suite,Executive,1000000,160000,0.16,1160000.0,28,1,MBA/PhD
+Executive Chairman,10,C-Suite,Executive,950000,104500,0.11,1054500.0,27,1,MBA/PhD
+President,10,C-Suite,Executive,900000,63000,0.07,963000.0,32,1,MBA/PhD
+Co-CEO,10,C-Suite,Executive,875000,52500,0.06,927500.0,31,1,MBA/PhD
+Junior Developer,2,Entry,IT,53000,4240,0.08,57240.0,3,14,Bachelor's
+QA Analyst,2,Entry,IT,48000,3840,0.08,51840.0,4,25,Bachelor's
+Product Analyst,2,Entry,Product,50000,2500,0.05,52500.0,4,35,Bachelor's
+Recruitment Specialist,3,Mid,Human Resources,54000,5400,0.1,59400.0,4,8,Bachelor's
+Logistics Coordinator,3,Mid,Operations,53000,2650,0.05,55650.0,5,12,Bachelor's
+Brand Manager,4,Mid,Marketing,83000,4980,0.06,87980.0,5,6,Bachelor's/Master's
+Customer Success Manager,4,Mid,Sales,79000,3950,0.05,82950.0,6,7,Bachelor's/Master's
+Risk Manager,4,Mid,Finance,86000,6880,0.08,92880.0,5,18,Bachelor's/Master's
+Supply Chain Manager,4,Mid,Operations,81000,8100,0.1,89100.0,7,15,Bachelor's/Master's
+Senior Developer,5,Senior,IT,117000,9360,0.08,126360.0,11,6,Master's
+Principal Engineer,5,Senior,IT,123000,13530,0.11,136530.0,10,5,Master's
+Scrum Master,4,Mid,IT,80000,8000,0.1,88000.0,5,15,Bachelor's/Master's
+Talent Acquisition Manager,4,Mid,Human Resources,77000,9240,0.12,86240.0,6,12,Bachelor's/Master's
+Internal Auditor,3,Mid,Finance,61000,7320,0.12,68320.0,5,13,Bachelor's
+Treasury Manager,5,Senior,Finance,109000,13080,0.12,122080.0,9,8,Master's
+Global Account Manager,5,Senior,Sales,113000,9040,0.08,122040.0,13,4,Master's
+Growth Marketing Manager,5,Senior,Marketing,107000,11770,0.11,118770.0,11,6,Master's
+Platform Engineer,4,Mid,IT,91000,8190,0.09,99190.0,8,19,Bachelor's/Master's
+ML Engineer,5,Senior,Analytics,122000,7320,0.06,129320.0,13,7,Master's
+Business Intelligence Lead,5,Senior,Analytics,119000,15470,0.13,134470.0,11,3,Master's
